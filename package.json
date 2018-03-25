@@ -1,0 +1,14 @@
+{
+  "name": "simpleNodeServer",
+  "version": "1.0.0",
+  "description": "Example simple express server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Patryk yarpo Jar",
+  "license": "Creative Commons",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
